@@ -1,0 +1,44 @@
+site_name: Quan's Game Development Toolbox
+site_author: Quan Hoang
+
+nav:
+  - 🏠 Home: index.md
+
+  - 📖 About:
+      - Overview: about.md
+      - License: license.md
+      - Release Notes: release-notes.md
+
+  - 🧭 Getting Started:
+      - User Guide: guide.md
+      - Project Structure: structure.md
+      - Contributing: contributing.md
+
+  - 🧰 Toolbox:
+      - By Engine:
+          - Godot (4.6):
+              - Overview: engines/godot/index.md
+              - Scripts:
+                  -2D Top-down Movement: engines/godot/scripts/top-down-movement.md
+                  -2D Platformer Movement: engines/godot/scripts/2d-platformer-movement.md
+              - Assets: engines/godot/assets.md
+              - Miscellaneous: engines/godot/misc.md
+      - By System:
+          - Player Movement: systems/player_movement.md
+          - Combat: systems/combat.md
+          - UI & UX: systems/ui.md
+          - AI & Behavior: systems/ai.md
+      - By Project:
+          - Project Index: projects/index.md
+
+  - 🧪 Experiments:
+      - Prototypes: experiments/prototypes.md
+      - Failed Ideas (but learned a lot): experiments/failures.md
+
+  - 📎 References:
+      - Resources: references/resources.md
+      - Credits & Inspirations: references/credits.md
+
+theme:
+  name: dracula
+  favicon: assets/favicon.ico
