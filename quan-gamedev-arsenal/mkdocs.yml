@@ -17,10 +17,10 @@ nav:
   - 🧰 Toolbox:
       - By Engine:
           - Godot (4.6):
-              - Overview: engines/godot/index.md
               - Scripts:
                   -2D Top-down Movement: engines/godot/scripts/top-down-movement.md
                   -2D Platformer Movement: engines/godot/scripts/2d-platformer-movement.md
+                  -2D Sideview Scene-Based Building: engines/godot/scripts/side-view-building.md
               - Assets: engines/godot/assets.md
               - Miscellaneous: engines/godot/misc.md
       - By System:
