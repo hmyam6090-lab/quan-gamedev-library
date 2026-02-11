@@ -21,6 +21,8 @@ nav:
                   -2D Top-down Movement: engines/godot/scripts/top-down-movement.md
                   -2D Platformer Movement: engines/godot/scripts/2d-platformer-movement.md
                   -2D Sideview Scene-Based Building: engines/godot/scripts/side-view-building.md
+                  -Level Change System: engines/godot/scripts/level-change.md
+                  -2D Pick-upable Item That Hovers: engines/godot/scripts/2d-hover-pick-up-item.md
               - Assets: engines/godot/assets.md
               - Miscellaneous: engines/godot/misc.md
       - By System:
@@ -33,7 +35,8 @@ nav:
 
   - 🧪 Experiments:
       - Prototypes: experiments/prototypes.md
-      - Failed Ideas (but learned a lot): experiments/failures.md
+      - Highly Game Specific Mechanics:
+          - Ghost: experiments/specific/ghost.md
 
   - 📎 References:
       - Resources: references/resources.md
