@@ -1,4 +1,15 @@
-## 📚 v0.1.0 — Documentation Setup
+## 📚 v0.1.1 [ Extra Documentation ]
+
+**Documentation of some basic scripts.**
+
+### Added
+
+- [`2D Top-down Player Controller in Godot Script`](engines/godot/scripts/top-down-movement.md)
+- [`2D Platformer Player Controller in Godot Script`](engines/godot/scripts/2d-platformer-movement.md)
+- [`2D Sideview Scene-based Building System in Godot Script`](engines/godot/scripts/side-view-building.md)
+- Added More Sections && Re-structured Documentation
+
+## 📚 v0.1.0 [ Documentation Setup ]
 
 **Initial documentation release.**
 
