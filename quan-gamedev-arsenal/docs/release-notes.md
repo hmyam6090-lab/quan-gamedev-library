@@ -1,3 +1,13 @@
+## 📚 v0.1.2 [ MORE Documentation ]
+
+**Documentation of upgraded 2D platformer script, level changing system, a highly specific ghost enemy script and more.**
+
+### Added
+
+- [`UPGRADED 2D Platformer Player Controller in Godot Script`](engines/godot/scripts/2d-platformer-movement.md)
+- [`Ghost Enemy`](experiments/specific/ghost.md)
+- [`2D Hovering Item That Can Be Picked Up`](engines/godot/scripts/2d-hover-pick-up-item.md)
+
 ## 📚 v0.1.1 [ Extra Documentation ]
 
 **Documentation of some basic scripts.**

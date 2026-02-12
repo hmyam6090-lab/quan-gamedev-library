@@ -23,8 +23,6 @@ nav:
                   -2D Sideview Scene-Based Building: engines/godot/scripts/side-view-building.md
                   -Level Change System: engines/godot/scripts/level-change.md
                   -2D Pick-upable Item That Hovers: engines/godot/scripts/2d-hover-pick-up-item.md
-              - Assets: engines/godot/assets.md
-              - Miscellaneous: engines/godot/misc.md
       - By System:
           - Player Movement: systems/player_movement.md
           - Combat: systems/combat.md
